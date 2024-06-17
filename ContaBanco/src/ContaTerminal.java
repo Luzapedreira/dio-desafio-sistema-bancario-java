@@ -29,8 +29,7 @@ public class ContaTerminal {
         "Sua agência é " + agencia + ", conta " + contaCliente + "\n" +
         "Seu saldo inicial de R$" + saldoConta + " já está disponível para saque.";
 
-// Exibição da mensagem final
-System.out.println("\n" + conclusao); 
+        System.out.println("\n" + conclusao); 
     }
     
 
